@@ -8,7 +8,7 @@ I have currently completed coursework on Fundamental logic design, Circuit analy
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=py,c,py,tensorflow,cpp,pytorch,sklearn,anaconda,aws,sqlite,visualstudio,docker,github,latex,mysql,nodejs,npm,pycharm,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/iconsi=py,c,py,tensorflow,cpp,pytorch,sklearn,anaconda,aws,sqlite,visualstudio,docker,github,latex,mysql,nodejs,npm,pycharm,html,css" />
   </a>
 </p>
 
