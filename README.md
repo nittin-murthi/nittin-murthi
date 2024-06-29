@@ -6,6 +6,8 @@ My name is Nittin Murthi Dhekshinamoorthy and I am a Sophomore at the University
 
 I have currently completed coursework on Fundamental logic design, Circuit analysis, Embedded Systems and Assembly Language. I have also completed coursework on Assembly, C/C++ and all the way up until three-dimensional Calculus, Fundamental Linear Algebra and Differential Equations. Apart from my coursework, I am heavily involved in research and have extensive experience with machine learning frameworks such as Tensorflow, Keras, and PyTorch and Large Language Models such as Llama 3, GPT-4 and Mistral and libraries such as NumPy, Pandas, Hugginface and Langchain. You can check out my website to learn more about me!
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 Skills: Python | C | C++ | Tensorflow | Keras | PyTorch | Huggingface | OpenAI | LlaMA | NumPy | Pandas | Matplotlib
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nittin-murthi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nittin-murthi-dhekshinamoorthy-1b4361279/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nittin-murthi.github.io/PortfolioWebsite/)  
