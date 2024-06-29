@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Nittin Murthi Dhekshinamoorthy and I am a Sophomore at the University of Illinois Urbana-Champaign studying Computer Engineering. I have a deep passion for the field of Artificial Intelligence and Machine Learning and am constantly looking for opportunities to immerse myself whether it is through research projects, internships, project or courses. I am willing to get involved in any opportunity that will enable me to grow my passion and knowledge.
+
+  I have currently completed coursework on Fundamental logic design, Circuit analysis, Embedded Systems and Assembly Language. I have also completed coursework on Assembly, C/C++ and all the way up until three-dimensional Calculus, Fundamental Linear Algebra and Differential Equations. Apart from my coursework, I am heavily involved in research and have extensive experience with machine learning frameworks such as Tensorflow, Keras, and PyTorch and Large Language Models such as Llama 3, GPT-4 and Mistral. You can check out my website https://nittin-murthi.github.io/PortfolioWebsite/ for more information!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nittin-murthi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nittin-murthi/nittin-murthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
