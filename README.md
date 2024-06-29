@@ -8,6 +8,12 @@ I have currently completed coursework on Fundamental logic design, Circuit analy
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,tensorflow,pytorch,sklearn,anaconda,aws,sqlite,visualstudio,docker,github,latex,mysql,nodejs,npm,pycharm,html,css,wasm&perline=5)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=py,c,cpp,tensorflow,pytorch,sklearn,anaconda,aws,sqlite,visualstudio,docker,github,latex,mysql,nodejs,npm,pycharm,html,css,wasm&perline=5)" />
+  </a>
+</p>
+
 Skills: Python | C | C++ | Tensorflow | Keras | PyTorch | Huggingface | OpenAI | LlaMA | NumPy | Pandas | Matplotlib
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nittin-murthi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nittin-murthi-dhekshinamoorthy-1b4361279/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nittin-murthi.github.io/PortfolioWebsite/)  
