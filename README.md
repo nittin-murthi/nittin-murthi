@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nittin
-####Sophomore Computer Engineering Student @ UIUC | Aspiring AI Researcher
+#### Sophomore Computer Engineering Student @ UIUC | Aspiring AI Researcher
 ![Sophomore Computer Engineering Student @ UIUC | Aspiring AI Researcher](https://www.uillinois.edu/userfiles/Servers/Server_1240/image/header_banner_uiuc.png)
 
 My name is Nittin Murthi Dhekshinamoorthy and I am a Sophomore at the University of Illinois Urbana-Champaign studying Computer Engineering. I have a deep passion for the field of Artificial Intelligence and Machine Learning and am constantly looking for opportunities to immerse myself whether it is through research projects, internships, project or courses. I am willing to get involved in any opportunity that will enable me to grow my passion and knowledge.
