@@ -12,7 +12,7 @@ I have currently completed coursework on Fundamental logic design, Circuit analy
   </a>
 </p>
 
-Skills: Python | C | C++ | Tensorflow | Keras | PyTorch | Huggingface | OpenAI | LlaMA | NumPy | Pandas | Matplotlib
+Skills: Python | C | C++ | Jave | JavaScript | React | HTML | CSS | TensorFlow | Keras | PyTorch | NumPy | Pandas | Matplotlib
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nittin-murthi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nittin-murthi-dhekshinamoorthy-1b4361279/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nittin-murthi.github.io/PortfolioWebsite/)  
 
