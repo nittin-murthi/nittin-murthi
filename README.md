@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Nittin
-#### Sophomore Computer Engineering Student @ UIUC | Aspiring AI Researcher
-![Sophomore Computer Engineering Student @ UIUC | Aspiring AI Researcher](https://www.uillinois.edu/userfiles/Servers/Server_1240/image/header_banner_uiuc.png)
+#### Junior Computer Engineering Student @ UIUC | Aspiring AI/ML Researcher
+![Junior Computer Engineering Student @ UIUC | Aspiring AI Researcher](https://www.uillinois.edu/userfiles/Servers/Server_1240/image/header_banner_uiuc.png)
 
-My name is Nittin Murthi Dhekshinamoorthy and I am a Sophomore at the University of Illinois Urbana-Champaign studying Computer Engineering. I have a deep passion for the field of Artificial Intelligence and Machine Learning and am constantly looking for opportunities to immerse myself whether it is through research projects, internships, project or courses. I am willing to get involved in any opportunity that will enable me to grow my passion and knowledge.
+My name is Nittin Murthi Dhekshinamoorthy, and I am a junior studying Computer Engineering at the University of Illinois Urbana–Champaign. I am deeply passionate about Artificial Intelligence and Machine Learning, and I am continuously seeking opportunities—through research, internships, projects, and advanced coursework—to strengthen my expertise and contribute to the field.
 
-I have currently completed coursework on Fundamental logic design, Circuit analysis, Embedded Systems and Assembly Language. I have also completed coursework on Assembly, C/C++ and all the way up until three-dimensional Calculus, Fundamental Linear Algebra and Differential Equations. Apart from my coursework, I am heavily involved in research and have extensive experience with machine learning frameworks such as Tensorflow, Keras, and PyTorch and Large Language Models such as Llama 3, GPT-4 and Mistral and libraries such as NumPy, Pandas, Hugginface and Langchain. You can check out my website to learn more about me!
+My academic foundation spans both hardware and software systems, with completed coursework in SystemVerilog, fundamental logic design, circuit analysis, embedded systems, and assembly language. On the software side, I have gained strong experience in C/C++ programming, assembly, and algorithmic problem solving, supported by a rigorous mathematical background that includes three-dimensional calculus, linear algebra, probability and statistics, and differential equations.
+
+Beyond the classroom, I am actively engaged in research at the intersection of machine learning and engineering. I have hands-on experience with leading ML frameworks such as TensorFlow, Keras, PyTorch, and Scikit-Learn, as well as practical expertise working with large language models such as GPT-4o, Llama 3.1, DeepSeek-R1, and Claude via APIs and platforms (Ollama, Huggingface). I also leverage libraries and tools like NumPy, Pandas, Hugging Face, and LangChain to build and experiment with advanced AI applications.
+
+To learn more about my work and projects, please feel free to explore my website.
 
 <p align="center">
   <a href="https://skillicons.dev">
